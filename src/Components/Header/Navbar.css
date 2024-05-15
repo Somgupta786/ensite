@@ -1,0 +1,61 @@
+@media (max-width: 930px) {
+  .nav-options {
+    font-size: 12px !important;
+  }
+}
+
+.eventDate {
+  font-size: 14px;
+  border: 2px solid #f3f3f3;
+}
+
+.bg-grey {
+  background: #1f1f1f;
+  color: #fff;
+}
+
+.navbarcolor {
+  background-color: #02336a !important;
+}
+
+.inactiveLink {
+  color: #f1f1f1 !important;
+  text-decoration: none;
+}
+
+.activeLink {
+  color: white !important;
+  text-decoration: none;
+}
+
+@media (max-width: 870px) {
+  .name-heading {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 768px) {
+  .active {
+    border-bottom: 2px solid white !important;
+  }
+  .active:hover {
+    background: #064684 !important;
+  }
+  .inactive:hover {
+    background: #064684!important;
+  }
+}
+
+@media (max-width: 375px) {
+  .name-heading {
+    font-size: 14px;
+  }
+}
+
+.second {
+  font-size: 1.5rem;
+}
+
+.logo {
+  margin-left: 12px;
+}

@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.posterHome{
+  width: 100%;
+  display: block;
+}
+.posterHomeMob{
+  width: 100%;
+  display: none;
+}
+.judgesImg{
+  margin-left: 50%;
+  transform: translate(-50%,0);
+  width: 330px;
+  height:550px;
+}
+
+.judgesImg img{
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.prevImg{
+  margin-left: 50%;
+  transform: translate(-50%,0);
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+.prevImg img{
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+@media only screen and (max-width:786px) {
+  * {
+    font-size: 95%;
+  }
+  .posterHomeMob{
+    display: block;
+  }
+  .posterHome{
+    display: none;
+  }
+}
