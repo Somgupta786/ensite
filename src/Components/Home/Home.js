@@ -70,7 +70,7 @@ class  Home extends Component {
         {/* <div className="judgesImg">
           <img src={judges} alt="judges" />
         </div> */}
-        <div id="date" className="target mt-3">
+        {/* <div id="date" className="target mt-3">
           <div className="container">
             <h1 className="mb-3 green-heading">
               About the 1st International Conference AKGEC 2023
@@ -138,16 +138,15 @@ class  Home extends Component {
               Energy is the investment for the future.&quot;.
             </p>
           </div>
-        </div>
+        </div> */}
 
         <div id="theme" className="target">
           <div className="container mb-5">
             <h1 className="mb-3 green-heading">Conference Theme</h1>
             <p>
-            An International Conference on Innovations in Electronics, Communication and Computing Technologies for Sustainable Development-2025 (IECCTSD-2K25) is scheduled to be held from May 22-23, 2025, at Ajay Kumar Garg Engineering College, Ghaziabad, Uttar Pradesh, India. (IECCTSD-2K25) seeks to provide an open communication platform to discuss and exchange futuristic trends and high-quality research in the field of Engineering among researchers, academicians, industrial professionals, and students and bring together people from all different geographical areas who share a common discipline or field. The primary goal of the conference is to promote research and development activities needed for the next generation and focus on all promising areas in Engineering for Sustainable Development. Several renowned experts in this field will share their knowledge and experience with the participants.The
-              focus area and tracks of the conference would be:
+            An International Conference on Innovations in Electronics, Communication and Computing Technologies for Sustainable Development-2025 (IECCTSD-2K25) is scheduled to be held from May 22-23, 2025, at Ajay Kumar Garg Engineering College, Ghaziabad, Uttar Pradesh, India. (IECCTSD-2K25) seeks to provide an open communication platform to discuss and exchange futuristic trends and high-quality research in the field of Engineering among researchers, academicians, industrial professionals, and students and bring together people from all different geographical areas who share a common discipline or field. The primary goal of the conference is to promote research and development activities needed for the next generation and focus on all promising areas in Engineering for Sustainable Development. Several renowned experts in this field will share their knowledge and experience with the participants.
             </p>
-            <p>
+            {/* <p>
               <span className="bold-text">Track 1:</span> Green Energy, Electric
               Drives and Smart Grid
               <br />
@@ -158,7 +157,7 @@ class  Home extends Component {
               <br />
               <span className="bold-text">Track 4:</span> Artificial
               Intelligence and Embedded Systems
-            </p>
+            </p> */}
           </div>
         </div>
       </div>

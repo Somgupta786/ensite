@@ -51,8 +51,7 @@ class Theme extends Component {
               </p>
             </p> */}
             <i>
-              Prospective authors are invited to submit a maximum of 6 pages
-              full paper on the following tracks (but not limited to):
+            The contributing papers are invited to the following broad categories of :
             </i>
             {/* <p>
               Guidelines for authors{" "}

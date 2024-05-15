@@ -12,7 +12,7 @@ class Theme extends Component {
         </div> */}
         <div className="container">
           <h1 className="mb-3 green-heading">Registration Fees</h1>
-          <ul className="my-3">
+          {/* <ul className="my-3">
             <li>
               At least one author of each accepted paper must register at{" "}
               <b>Full Fee</b> before the deadline for the paper to be presented
@@ -26,7 +26,7 @@ class Theme extends Component {
             <li>
               <b>Extra pages Charges : Rs 2000 or USD 25 Per Extra Page</b>
             </li>
-          </ul>
+          </ul> */}
           <Table bordered>
             <tbody>
               <tr>
@@ -64,7 +64,7 @@ class Theme extends Component {
             </tbody>
           </Table>
 
-          <p>
+          {/* <p>
             <b>Full registration includes: </b>
             Access to plenary sessions (on prior booking only), all the
             conference sessions, conference registration kit, lunches, tea/
@@ -80,7 +80,7 @@ class Theme extends Component {
             letter from their institution or program director) by e-mail when
             submitting their registration and payment. Registration will not be
             effective until the validity of this document is confirmed.
-          </p>
+          </p> */}
           <h1 className="green-heading">Payment Details</h1>
 
           <Table bordered>
