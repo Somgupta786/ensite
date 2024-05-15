@@ -11,6 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+body,html,.App,#root{
+height: 100vh;
+}
 
 .posterHome{
   width: 100%;
@@ -49,10 +52,10 @@ code {
   * {
     font-size: 95%;
   }
-  .posterHomeMob{
+  /* .posterHomeMob{
     display: block;
   }
   .posterHome{
     display: none;
-  }
+  } */
 }

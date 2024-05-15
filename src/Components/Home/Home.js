@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import poster from "../../assets/desktop.png";
+import poster from "../../assets/desktop2.png";
 import previous from "../../assets/previous.png";
 import posterMob from "../../assets/mobile.png";
 
@@ -21,7 +21,7 @@ class  Home extends Component {
 </div> */}
 
         <img src={poster} className="posterHome" alt="poster"></img>
-        <img src={posterMob} className="posterHomeMob" alt="poster"></img>
+        {/* <img src={posterMob} className="posterHomeMob" alt="poster"></img> */}
 
         {/* <div className="container mt-4">
             <Desktop className="w-50 mobicon"/>
