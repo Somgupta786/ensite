@@ -45,11 +45,11 @@ function About() {
           </p>
         </div>
 
-        <div className="container mb-5">
+        {/* <div className="container mb-5">
           <h1 className="mb-3 mt-5 green-heading">AKGEC Conference</h1>
           <p>It is witnessed that in the past few years global warming issues are trending high. The cost of fossil fuel is increasing enormously and affecting the economic growth of the Nation. The production of Petrol, diesel and petroleum gas for the year 2022 is on hold due to decision taken by the summit.   It is therefore imperative to spread the awareness about environmental and economic issues created by the use of fossil fuel and the importance of stepping towards the green energy technology. The aim of this conference is to provide a forum for engineers, researchers, and specialists from academia, research centers and industry worldwide to discuss and present the latest developments and challenges in Green Energy and computational intelligence for sustainable Technologies. The international conference on Advancements & Key Challenges in Green Energy and Computing (AKGEC-2024) will offer themes in the engineering aspects of renewable energy and computing. The main aim of this conference will be to provide an international premier forum for the presentation of new advances and research results in the field of Green Energy, Computing and security, sustainable development, Artificial intelligence and Embedded Systems. </p>
             
-        </div>
+        </div> */}
 
         <div className="container mb-5">
           <h1 className="mb-3 mt-5 green-heading">About the Department </h1>
@@ -66,7 +66,7 @@ function About() {
             Engineering along with M.Tech. (PG course) in Electronics &
             Communication Engineering. Approved intake of B.Tech. (ECE) course
             is 180 students and for the M.Tech. (ECE) course it is 18 students.
-            <br />
+            <br /> <br />
             The department has an adequate number of laboratories as per
             requirement (strength of students in the department and number of
             practical courses mentioned in the syllabus scheme). These
@@ -80,7 +80,7 @@ function About() {
             has established the Texas Instruments-Centre of Excellence Lab,
             NI-LabVIEW Academy, Virtual Lab (with IIT Kanpur), IoT Lab, etc. in
             collaboration with reputed industries and academic institutes.
-            <br />
+            <br /> <br />
             The department has its Technical Society-Phoenix. The society
             organizes many technical competitions, quizzes, technical seminars,
             mock interviews, aptitude tests, project exhibitions and technical
@@ -100,7 +100,7 @@ function About() {
           </p>
         </div>
 
-        <div className="container mb-5">
+        {/* <div className="container mb-5">
           <h1 className="mb-3 mt-5 green-heading">About Ghaziabad </h1>
           <p>
             Ghaziabad is a city in the Indian state of Uttar Pradesh and a part
@@ -175,9 +175,9 @@ function About() {
             and Ghaziabad became the junction of the East Indian Railway and
             Sind, Punjab and Delhi Railway.
           </p>
-        </div>
+        </div> */}
 
-        <div className="container mb-5">
+        {/* <div className="container mb-5">
           <h1 className="mb-3 mt-5 green-heading">Uttar Pradesh </h1>
           <p>
             Uttar Pradesh ('Northern Province') is a state in northern India.
@@ -264,7 +264,7 @@ function About() {
           2018–19. The state's tourism industry is a major contributor to
           the state's economy, growing at the rate of 21.60%.
           <p></p>
-        </div>
+        </div> */}
       </div>
 
       <Footer />

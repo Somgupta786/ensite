@@ -26,11 +26,11 @@ class Theme extends Component {
         <div className="container">
           <h1 className="mb-3 green-heading">Committee </h1>
 
-          <Table borderless className="mb-5 borderbtm">
+          {/* <Table borderless className="mb-5 borderbtm">
             <tbody>
               <tr>
                 <th className="noborder">Chair Person/ Chief Patron</th>
-                {/* <th className="noborder">Patron</th> */}
+                
               </tr>
               <tr>
                 <td className="tdborder">
@@ -39,12 +39,12 @@ class Theme extends Component {
                   <br />
                   Director General, AKGEC Ghaziabad
                 </td>
-                {/* <td className="tdborder">Dr. P.K. Chopra<br/>Director, AKGEC</td> */}
+                
               </tr>
             </tbody>
-          </Table>
+          </Table> */}
 
-          <Table borderless className="mb-5 borderbtm">
+          {/* <Table borderless className="mb-5 borderbtm">
             <tbody>
               <tr>
                 <th className="noborder">Honorary General Chair </th>
@@ -61,9 +61,9 @@ class Theme extends Component {
                 </td>
               </tr>
             </tbody>
-          </Table>
+          </Table> */}
 
-          <Table>
+          {/* <Table>
             <thead>
               <th className="noborder">General Chairs</th>
             </thead>
@@ -89,10 +89,10 @@ class Theme extends Component {
                 </td>
               </tr>
             </tbody>
-          </Table>
+          </Table> */}
           <br />
 
-          <Table borderless className="mb-5 borderbtm">
+          {/* <Table borderless className="mb-5 borderbtm">
             <tbody>
               <tr>
                 <th className="noborder">Conference Chair</th>
@@ -109,9 +109,9 @@ class Theme extends Component {
                 </td>
               </tr>
             </tbody>
-          </Table>
+          </Table> */}
 
-          <Table>
+          {/* <Table>
             <thead>
               <th className="noborder">Organizing Chair </th>
             </thead>
@@ -124,7 +124,7 @@ class Theme extends Component {
                 </td>
               </tr>
             </tbody>
-          </Table>
+          </Table> */}
           <br />
           {/* honory advisory */}
           {/* <Table borderless className="mb-5 borderbtm" responsive="md">
@@ -275,7 +275,7 @@ class Theme extends Component {
           <Table borderless className="mb-5 borderbtm" responsive="md">
             <tbody>
               <tr>
-                <th colSpan="2">Advisory Committee</th>
+                <th colSpan="2">Committee</th>
               </tr>
 
               <tr>
