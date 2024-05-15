@@ -14,10 +14,14 @@ import Main from "../../Components/Home/Home";
 function Home() {
   return (
     <>
+      <div className="main-page ">
       <Header active="home" />
       <Main />
-      <Footer />
+      
+    </div>
+    <Footer />
     </>
+    
   );
 }
 

@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import poster from "../../assets/desktop2.png";
+import poster from "../../assets/desktop3.png";
 import previous from "../../assets/previous.png";
 import posterMob from "../../assets/mobile.png";
 
