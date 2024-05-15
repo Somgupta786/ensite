@@ -66,7 +66,7 @@ function About() {
             Engineering along with M.Tech. (PG course) in Electronics &
             Communication Engineering. Approved intake of B.Tech. (ECE) course
             is 180 students and for the M.Tech. (ECE) course it is 18 students.
-            <br />
+            <br /> <br />
             The department has an adequate number of laboratories as per
             requirement (strength of students in the department and number of
             practical courses mentioned in the syllabus scheme). These
@@ -80,7 +80,7 @@ function About() {
             has established the Texas Instruments-Centre of Excellence Lab,
             NI-LabVIEW Academy, Virtual Lab (with IIT Kanpur), IoT Lab, etc. in
             collaboration with reputed industries and academic institutes.
-            <br />
+            <br /> <br />
             The department has its Technical Society-Phoenix. The society
             organizes many technical competitions, quizzes, technical seminars,
             mock interviews, aptitude tests, project exhibitions and technical
