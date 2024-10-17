@@ -30,7 +30,7 @@ Smart grids and virtual power stations, Energy policy, low power electronics and
              <h5 className="extra-bold-text mt-4">Category 10: Sustainable Energy Systems </h5>
              <h5 className="extra-bold-text mt-4">Category 11: Optical Systems and Optical Networks </h5>
              <h5 className="extra-bold-text mt-4">Category 12: Modern 5G and 6G Wireless Communication Systems & Applications </h5>
-             <h5 className="extra-bold-text mt-4">Category 13: Hybrid Systems & Technologiesdvanced Computing Technologies </h5>
+             <h5 className="extra-bold-text mt-4">Category 13: Hybrid Systems & Technologies for Advanced Computing Technologies </h5>
             {/* <h1 className="mt-5 mb-3 green-heading">Further Updates Soon...</h1> */}
             {/* <p>
 • All the presented papers will be indexed in a Scopus Journal.<br/>

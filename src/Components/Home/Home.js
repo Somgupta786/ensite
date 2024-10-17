@@ -3,7 +3,7 @@ import poster from "../../assets/desktop3.png";
 import previous from "../../assets/previous.png";
 import posterMob from "../../assets/mobile.png";
 
-class  Home extends Component {
+class Home extends Component {
   render() {
     return (
       <div id="home">
@@ -33,13 +33,7 @@ class  Home extends Component {
               Date and Venue of the Conference
             </h1>
             <p>
-              The conference AKGEC2024 hosted by Department of Electrical and
-              Electronics Engineering, will be held offline at AKGEC, Ghaziabad,
-              Uttar Pradesh, India from May 22-23, 2025. The conference
-              will include regular sessions with poster/oral presentations,
-              global and technical sessions, panel discussions and poster
-              presentations organized in AKGEC. The conference is Technically
-              Sponsored by IEEE UP Section.{" "}
+              The conference ASICS2K25 hosted by Department of Electronics and Communication  Engineering, will be held offline at AKGEC, Ghaziabad, Uttar Pradesh, India from September 12-13, 2025. The conference will include regular sessions with poster/oral presentations, global and technical sessions, panel discussions and poster presentations organized in AKGEC. The conference is Technically Sponsored by IEEE UP Section.{" "}
             </p>
           </div>
         </div>
@@ -51,11 +45,11 @@ class  Home extends Component {
               <span className="bold-text">Last date of abstract submission:</span> December 10, 2024
               <br />
               <span className="bold-text">
-              Last date of abstract submission:{" "}
+                Last date of abstract submission:{" "}
               </span>{" "}
               January 16, 2025 <br />
               <span className="bold-text">
-              Notification of acceptance:{" "}
+                Notification of acceptance:{" "}
               </span>{" "}
               January 16, 2025{" "}
               <br />
@@ -144,7 +138,7 @@ class  Home extends Component {
           <div className="container mb-5">
             <h1 className="mb-3 green-heading">Conference Theme</h1>
             <p>
-            An International Conference on Innovations in Electronics, Communication and Computing Technologies for Sustainable Development-2025 (IECCTSD-2K25) is scheduled to be held from <b>May 22-23, 2025</b> , at Ajay Kumar Garg Engineering College, Ghaziabad, Uttar Pradesh, India.<b> (IECCTSD-2K25) </b>seeks to provide an open communication platform to discuss and exchange futuristic trends and high-quality research in the field of Engineering among researchers, academicians, industrial professionals, and students and bring together people from all different geographical areas who share a common discipline or field. The primary goal of the conference is to promote research and development activities needed for the next generation and focus on all promising areas in Engineering for Sustainable Development. Several renowned experts in this field will share their knowledge and experience with the participants.
+              An International Conference on Advances in Semiconductor ICs and Signal Processing (ASICS-2K25) is scheduled to be held from September 12-13, 2025, at Ajay Kumar Garg Engineering College, Ghaziabad, Uttar Pradesh, India. (ASICS-2K25) seeks to provide an open communication platform to discuss and exchange futuristic trends and high-quality research in the field of Engineering among researchers, academicians, industrial professionals, and students and bring together people from all different geographical areas who share a common discipline or field. The primary goal of the conference is to promote research and development activities needed for the next generation and focus on all promising areas in Engineering for Advances in Semiconductor ICs and Signal Processing. Several renowned experts in this field will share their knowledge and experience with the participants.
             </p>
             {/* <p>
               <span className="bold-text">Track 1:</span> Green Energy, Electric

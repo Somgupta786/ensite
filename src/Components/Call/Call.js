@@ -7,7 +7,7 @@ class Theme extends Component {
         <div className="container">
           <h1 className="mb-3 green-heading">Call for Paper</h1>
           <p>
-          IEEE AKGEC 2024 extends an invitation to academicians, researchers, practitioners, and students from across the globe to submit original papers that have not been previously published for potential presentation at the conference. The authors are invited to submit the research papers in IEEE Format. The papers will be peer-reviewed and only the accepted and registered papers will be considered for presentation during the conference and publication in the proceedings.
+            IEEE ASICS-2K25 extends an invitation to academicians, researchers, practitioners, and students from across the globe to submit original papers that have not been previously published for potential presentation at the conference. The authors are invited to submit the research papers in IEEE Format. The papers will be peer-reviewed and only the accepted and registered papers will be considered for presentation during the conference and publication in the proceedings.
           </p>
 
           {/* <p>The focus area and tracks of the conference would be:</p>

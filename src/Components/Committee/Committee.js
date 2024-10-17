@@ -326,7 +326,7 @@ class Theme extends Component {
                 <td className="snowidth text-center">8</td>
                 <td className="nametd">Dr. R. K. Tripathi</td>
                 <td className="afftd">
-                Professor, Motilal Nehru National Institute of Technology Allahabad, Prayagraj, India
+                  Professor, Motilal Nehru National Institute of Technology Allahabad, Prayagraj, India
                 </td>
               </tr>
               <tr>
@@ -338,7 +338,7 @@ class Theme extends Component {
                 <td className="snowidth text-center">10</td>
                 <td className="nametd">Dr. Prerna Gaur</td>
                 <td className="afftd">
-                Prof., NSUT Main Campus Director, West Campus, Delhi, India
+                  Prof., NSUT Main Campus Director, West Campus, Delhi, India
                 </td>
               </tr>
               <tr>
@@ -363,101 +363,96 @@ class Theme extends Component {
               </tr>
               <tr>
                 <td className="snowidth text-center">15</td>
-                <td className="nametd">Dr. P. K. Chopra</td>
-                <td className="afftd">Director General, Galgotias Educational Institutions, Greater Noida, India</td>
-              </tr>
-              <tr>
-                <td className="snowidth text-center">16</td>
                 <td className="nametd">Dr. Mainuddin</td>
                 <td className="afftd">Professor, ECE, Jamia Millia Islamia, New Delhi, India</td>
               </tr>
               <tr>
-                <td className="snowidth text-center">17</td>
+                <td className="snowidth text-center">16</td>
                 <td className="nametd">Dr. M. A. Ansari</td>
                 <td className="afftd">HoD, ECE, GBU Greater Noida, India</td>
               </tr>
               <tr>
-                <td className="snowidth text-center">18</td>
+                <td className="snowidth text-center">17</td>
                 <td className="nametd">Dr. Manish Rai</td>
                 <td className="afftd">Professor and HoD ECE, M.J.P Rohilkhand University, Bareilly, India</td>
               </tr>
               <tr>
-                <td className="snowidth text-center">19</td>
+                <td className="snowidth text-center">18</td>
                 <td className="nametd">Dr. Garima Mathur</td>
                 <td className="afftd">HoD ECE, Poornima College of Engineering, Jaipur, India</td>
               </tr>
               <tr>
-                <td className="snowidth text-center">20</td>
+                <td className="snowidth text-center">19</td>
                 <td className="nametd">Dr. Rahul Sharma</td>
                 <td className="afftd">HOD IT, AKGEC Ghaziabad</td>
               </tr>
               <tr>
-                <td className="snowidth text-center">21</td>
+                <td className="snowidth text-center">20</td>
                 <td className="nametd">Dr. A. K. Singh</td>
                 <td className="afftd">HoD EC, REC, Kannauj Engineering, UP, India</td>
               </tr>
               <tr>
-                <td className="snowidth text-center">22</td>
+                <td className="snowidth text-center">21</td>
                 <td className="nametd">Dr. Vineet Khandelwal</td>
                 <td className="afftd">Professor, JIIT, Noida, India</td>
               </tr>
               <tr>
-                <td className="snowidth text-center">23</td>
+                <td className="snowidth text-center">22</td>
                 <td className="nametd">Dr. Jitendra Agrawal</td>
                 <td className="afftd">Director & Associate Professor at School of Information Technology, UIT RGPV, Bhopal, India</td>
               </tr>
               <tr>
-                <td className="snowidth text-center">24</td>
+                <td className="snowidth text-center">23</td>
                 <td className="nametd">Dr. Piyush Shukla</td>
                 <td className="afftd">Associate Professor, UIT RGPV, Bhopal, India</td>
               </tr>
               <tr>
-                <td className="snowidth text-center">25</td>
+                <td className="snowidth text-center">24</td>
                 <td className="nametd">Dr. Rikmantra Basu</td>
                 <td className="afftd">Assistant Professor, NIT Delhi, India</td>
               </tr>
               <tr>
-                <td className="snowidth text-center">26</td>
+                <td className="snowidth text-center">25</td>
                 <td className="nametd">Dr. Gaurav Verma</td>
                 <td className="afftd">Assistant Professor (Sr. Grade), JIIT, Noida, India</td>
               </tr>
               <tr>
-                <td className="snowidth text-center">27</td>
+                <td className="snowidth text-center">26</td>
                 <td className="nametd">Dr. Shruti Kalra</td>
                 <td className="afftd">Assistant Professor (Sr. Grade), JIIT, Noida, India</td>
               </tr>
               <tr>
-                <td className="snowidth text-center">28</td>
+                <td className="snowidth text-center">27</td>
                 <td className="nametd">Dr. Ruby Beniwal</td>
                 <td className="afftd">Assistant Professor (Sr. Grade), JIIT, Noida, India</td>
               </tr>
               <tr>
-                <td className="snowidth text-center">29</td>
+                <td className="snowidth text-center">28</td>
                 <td className="nametd">Dr. Sanjeev Yadav</td>
                 <td className="afftd">Associate Professor, Department of ECE (Under the mentorship of ISRO-IIST), Central University of Jammu, India</td>
               </tr>
               <tr>
-                <td className="snowidth text-center">30</td>
+                <td className="snowidth text-center">29</td>
                 <td className="nametd">Mr. Amit Tiwari</td>
                 <td className="afftd">Senior Project Manager, BEL, Ghaziabad, India</td>
               </tr>
               <tr>
-                <td className="snowidth text-center">31</td>
+                <td className="snowidth text-center">30</td>
                 <td className="nametd">Dr. B. K. Gupta</td>
                 <td className="afftd">Director, Barnett Pvt. Limited, Greater Noida</td>
               </tr>
               <tr>
-                <td className="snowidth text-center">32</td>
+                <td className="snowidth text-center">31</td>
                 <td className="nametd">Dr. R. L. Sharma</td>
                 <td className="afftd">Prof. & BSF Communication Branch, Delhi</td>
               </tr>
               <tr>
-                <td className="snowidth text-center">33</td>
+                <td className="snowidth text-center">32</td>
                 <td className="nametd">Mr. Sanjay Giri</td>
                 <td className="afftd">AGM, ALTTT Centre, Ghaziabad</td>
               </tr>
               <tr>
-                <td className="snowidth text-center">34</td>
+                <td className="snowidth text-center">33</td>
                 <td className="nametd">Mr. Naresh</td>
                 <td className="afftd"> AGM, ALTTT Centre, Ghaziabad</td>
               </tr>
